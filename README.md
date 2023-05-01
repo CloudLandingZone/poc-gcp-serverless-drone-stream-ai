@@ -8,3 +8,4 @@ A POC around a GCP AI serverless infrastructure and drone stream client
 
 # References
 - https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/04_MediaCapture.html
+- DroneID https://github.com/RUB-SysSec/DroneSecurity/issues/2
