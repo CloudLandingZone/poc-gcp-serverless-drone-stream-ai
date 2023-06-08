@@ -70,6 +70,8 @@ There is an iphone FLIR camera available.
 
 ## Smartphone Hardware
 ## Drone Hardware
+### Transport Canada Drone Pilot License
+### Transport Canada Drone Registration
 ## Cloud Provider
 ## Development Environments
 
