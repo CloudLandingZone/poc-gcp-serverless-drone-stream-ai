@@ -7,7 +7,12 @@
 
 ### UC 3: Entity Extraction using AM/ML on realtime RTMP Drone Streaming Video
 
-### UC 10: Generative-AI: Prompt for spatial or SQL queries
+### UC 10: Drone Tracking via DroneID and SDR
+
+### UC 11: Drone Tracking via attached Iphone/Android and GPS blackbox app
+
+### UC 20: Generative-AI: Prompt for spatial or SQL queries
+
 
 ## Requirements
 
@@ -44,6 +49,13 @@ Following Whitney's tutorials
 ## GCP Design
 
 # Implementation
+
+# Deliverables
+
+# BOM : Bill of Materials
+
+
+# FinOps
 
 # Field Testing
 
