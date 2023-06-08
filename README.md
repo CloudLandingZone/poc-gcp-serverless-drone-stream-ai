@@ -13,6 +13,8 @@
 
 ### UC 20: Generative-AI: Prompt for spatial or SQL queries
 
+### UC 21: Generative-AI: Prompt for summary of High/Low entity/problem reports
+
 
 ## Requirements
 
