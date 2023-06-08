@@ -54,6 +54,12 @@ Following Whitney's tutorials
 
 # BOM : Bill of Materials
 
+## Smartphone Hardware
+## Drone Hardware
+## Cloud Provider
+## Development Environments
+
+
 
 # FinOps
 
