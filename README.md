@@ -46,7 +46,12 @@ Following Whitney's tutorials
 
 
 # Design Issues
-## GCP Design
+## DI 1: GCP Infrastructure Design
+## DI 2: Realtime or Offline Processing
+## DI 3: Streaming Video Processing
+## DI 4: LIDAR Processing
+## DI 5: Network upload bandwidth issues for 5G and LTE
+## 
 
 # Implementation
 
