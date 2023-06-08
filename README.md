@@ -7,6 +7,8 @@
 
 ### UC 3: Entity Extraction using AM/ML on realtime RTMP Drone Streaming Video
 
+### UC 10: Generative-AI: Prompt for spatial or SQL queries
+
 ## Requirements
 
 ## Introduction
@@ -28,6 +30,24 @@ Following Whitney's tutorials
 
 <img width="1124" alt="Screenshot 2023-05-01 at 15 26 19" src="https://user-images.githubusercontent.com/24765473/235515634-08b90504-8220-4089-b388-efccf6722f44.png">
 
+# Architecture
+
+# Design
+## Criteria
+- Speed
+- Flexibility
+- Serverless
+
+
+
+# Design Issues
+## GCP Design
+
+# Implementation
+
+# Field Testing
+
+# Links
 
 # References
 - https://developer.apple.com/library/archive/documentation/AudioVideo/Conceptual/AVFoundationPG/Articles/04_MediaCapture.html
