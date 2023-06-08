@@ -51,7 +51,14 @@ Following Whitney's tutorials
 ## DI 3: Streaming Video Processing
 ## DI 4: LIDAR Processing
 ## DI 5: Network upload bandwidth issues for 5G and LTE
-## 
+## DI 6: Use Drone with built in SDK/Cloud capability
+Choosing a drone with built in CSP/SDK support will change the implementation.  For example the Mavic 3 Classic has the same physical characteristics as the Mavic 3 Enterprise - but without centimeter GPS, the FLIR camera or the built in Cloud SDK.
+If using a lower model then an attached smartphone can replace some of this functionality.
+## DI 7: Use Drone with centimeter GPS
+## DI 8: Use Drone with built in FLIR camera
+## DI 9: Use Drone with attached FLIR camera
+There is an iphone FLIR camera available.
+
 
 # Implementation
 
