@@ -45,6 +45,13 @@ Following Whitney's tutorials
 - Flexibility
 - Serverless
 
+## AI Integration
+Vertex AI is for custom AI development.  AutoML is for out of the box pretrained models.
+
+## Injestion
+## Preparation
+Vertex AI data prep
+## Entity Extraction
 
 
 # Design Issues
