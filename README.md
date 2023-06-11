@@ -1,4 +1,5 @@
 # poc-gcp-serverless-drone-stream-ai
+- see https://github.com/ObrienlabsDev/drone-streaming-extraction
 ## Use Cases
 ### UC 1: Runway Surface Inspection using AM/ML on realtime RTMP Drone Streaming Video
 
